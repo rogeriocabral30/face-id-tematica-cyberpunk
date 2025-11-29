@@ -73,8 +73,7 @@ cd face-id-tematica-cyberpunk
 
 python app.py
 
-
 👨‍💻Autor — Rogério Cabral
-<div align="left"><a href="https://www.linkedin.com/in/rog%C3%A9rio-cabral-609072397/"><img src="https://img.shields.io/badge/LinkedIn-ACESSAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div align="left"><a href="https://www.linkedin.com/in/rogeriocabraldev/"><img src="https://img.shields.io/badge/LinkedIn-ACESSAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/rogeriocabral30"><img src="https://img.shields.io/badge/GitHub-ACESSAR-100000?style=for-the-badge&logo=github&logoColor=white"></a></div>
 
